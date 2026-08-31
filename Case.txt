@@ -1,0 +1,155 @@
+ ### COMPLETE CASE
+
+#### CASE TITLE:
+Mystery of the Vanished Notebook
+
+#### CASE NUMBER:
+CASE-007
+
+#### CRIME:
+Disappearance of a highly valuable corporate notebook.
+
+#### LOCATION:
+Softech Corporation, San Francisco, California
+
+#### DATE:
+September 15, 2023
+
+#### LEAD INVESTIGATOR:
+Detective Sarah Chen
+
+#### CASE STATUS:
+Currently in progress. Key evidence is pending verification.
+
+---
+
+### INCIDENT REPORT
+
+#### Incident Summary:
+The valuable corporate notebook of Softech’s Chief Financial Officer, Mr. Michael King, was discovered missing on September 15th at the end of a routine board meeting. The notebook contained sensitive financial information that could have significant implications for both Softech and its competitors. Detective Sarah Chen was immediately assigned to investigate.
+
+---
+
+### CRIME SCENE REPORT
+
+#### Crime Scene: 
+Softech Corporation’s Board Room, September 15, 2023, at 6:00 PM.
+
+#### Evidence Collected:
+- A suspiciously small bag found in the board room.
+- Digital security footage showing a person entering and exiting the building from the underground parking garage. The person wore dark sunglasses, gloves, and a mask.
+
+---
+
+### VICTIM PROFILE
+
+#### Victim Information:
+Michael King (50 years old), CFO of Softech Corporation, known for his cautious nature towards personal belongings but not for any criminal history.
+
+---
+
+### SUSPECT 1: Alice Morgan
+- **Motive:** Jealous of Michael King's close relationship with the board members.
+- **Opportunity:** Regularly worked in the office without security checks during after-hours visits to her car.
+- **Alibi:** A witness stated she was at home watching a movie until around 7 PM, which matches the time when the notebook should have been taken. However, Alice had previously mentioned a recurring habit of watching movies very late into the night for stress relief.
+- **Secret:** Has an unexplained history with Mr. King’s financial transactions; she sometimes acted as his assistant in dealing with financial issues.
+- **Supporting Innocence:** Her alibi is plausible and consistent with her known behavior, suggesting she had a motive but not direct opportunity or means to commit the crime alone.
+- **Reason to Lie/Hide Information:** Alice has been known for keeping certain details of her relationship with Mr. King private out of fear it might complicate their professional working environment.
+
+---
+
+### SUSPECT 2: Daniel Price
+- **Motive:** Desire for personal gain through financial information, including insider trading opportunities.
+- **Opportunity:** Regularly accessed the office network after hours when Michael King was not around.
+- **Alibi:** Officially claimed to be at a networking event downtown but provided vague details about his movements that could be easily contradicted by various witnesses. He denies any criminal intent and insists on complete innocence.
+- **Secret:** Hides an existing gambling debt, which he claims to pay off using money from financial transactions involving Mr. King’s notebook.
+- **Supporting Innocence:** His alibi is vague but plausible, suggesting a motive for theft without direct opportunity or means alone to commit the crime.
+- **Reason to Lie/Hide Information:** Daniel has been known for underreporting his gambling debts in previous investigations and may continue to fabricate details about his whereabouts.
+
+---
+
+### CCF SUSPECTS
+SUSPECT 1: Alice Morgan  
+SUSPECT 2: Daniel Price
+
+---
+
+#### Evidence Log
+
+| **Evidence Number** | **Title**                    | **Location Found**                              | **Description**                                                                                     | **What Investigators Know**                                                                                                                                                                                                                                         | **What It Actually Means**                                                                                                                                                                                                                           |
+|---------------------|------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01                  | Bag found in Board Room      | Softech Corporation, Board Room                    | A small black bag with no apparent markings or identifying features.                                       | The bag was reportedly found by security personnel during a routine check after the meeting ended. It contained an old pair of sunglasses and a digital wallet that belonged to an unknown individual.                                                                                       |                                                                                                                                                                                                                                                                                   |
+| 02                  | Surveillance Footage         | Underground Parking Garage                          | A dark figure, wearing dark sunglasses, gloves, and a mask, entering and exiting through a back door. The footage lasts only for about two minutes before it cuts off abruptly.                                                                | The surveillance footage was recorded by Softech’s security system, indicating that someone entered the premises from an unmonitored area during their watch period. The figure's identity is unknown as no other evidence confirms them to be one of the suspects.  |                                                                                                                                                                                                                                                                         |
+| 03                  | Financial Records            | Unknown                                          | A set of financial documents matching those held by Mr. King were found in Alice’s car.                                | The records suggest she had access to sensitive information and could have tampered with them, though her alibi is plausible suggesting no direct involvement.                                                                                                                             |                                                                                                                                                                                                                                                                                   |
+| 04                  | Email Correspondence         | Alice's Personal Computer                          | Emails sent from Alice’s work account to an unknown email address containing financial advice for Mr. King.   | She claims she was just offering professional guidance, but the timing and content suggest potential motive.                                                                                                                                                |                                                                                                                                                                                                                                                                                   |
+| 05                  | Surveillance Footage         | Main Building Entrance                               | A dark figure entering through the main entrance shortly after the meeting concluded. The footage is unclear due to shadows.                                                           | Similar to suspect 2, this could be Daniel Price or another unconfirmed individual.                                                                                                                                                    |                                                                                                                                                                                                                                                                                   |
+
+---
+
+#### Complete Timeline
+
+| **Time**            | **Description**                         | **Person Involved**       | **Verification Status**                  | **Evidence Supporting It**                                                                                           |
+|---------------------|-----------------------------------------|--------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 6:00 PM             | Board Meeting Ends                       | Mr. Michael King        | Verified, official minutes                        | Financial records showing all personnel present.                                                              |
+| 6:15 PM             | Security System Checked                  | Security Personnel      | Verified, surveillance footage of a bag in the Board Room                                          | A small black bag found by security staff and documented.                                                    |
+| 7:00 PM             | Alice Morgan Returns Home                | Alice Morgan            | Confirmed, witness testimony                            | Witness claims she was home watching a movie until around this time.                                        |
+| 8:30 PM             | Surveillance Footage Begins              | Unidentified Individual | Verified, digital surveillance footage captured    | Dark figure entering through an unmonitored exit and then exiting from the main entrance.                  |
+| ...                 |                                          |                        | ...                                   |                                                                                                             |
+
+---
+
+#### Deduction Chain
+
+1. **Evidence 01** establishes that Alice Morgan’s alibi is plausible but not directly corroborated by other evidence.
+2. **Evidence 02** suggests an anonymous individual entered the premises from a dark and unmonitored area, which Alice denies access to.
+3. **Evidence 04** indicates she was engaged in sending financial advice emails shortly after the meeting ended, suggesting potential motive but no direct involvement based on her alibi.
+4. **Evidence 03** supports Alice’s alibi but also suggests a link to sensitive financial information.
+
+Therefore:
+
+- Alice Morgan cannot be ruled out as the perpetrator due to her plausible alibi and known history with financial advice for Mr. King, yet her motive alone is insufficient without additional evidence linking her directly to the crime.
+- Daniel Price's surveillance footage matches his claim of being at a networking event but lacks specific confirming evidence; however, his alibi appears more vague and easily contradicted.
+
+---
+
+#### Red Herrings
+
+1. **Red Herring 01:** Alice Morgan’s emails containing financial advice for Mr. King appear relevant as potential motive. However, they support her innocence since she claims to be offering professional guidance.
+2. **Red Herring Explanation:**
+   - The red herring uses real evidence but misinterprets it in a way that leads the investigation towards an innocent suspect.
+
+---
+
+#### Suspect Lies
+
+| **Suspect** | **What They Say**                              | **What The Truth Is**                                                                                       | **Why They Lied**                                                                                                                                                               | **Evidence Exposing the Lie**                                                                                                                                             |
+|-------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alice Morgan | My emails were just a coincidence.                | She sent financial advice emails to Mr. King, which could support her motive but align with professional guidance she claims to offer. | To avoid suspicion of being directly involved in the theft.                                                                                             | Surveillance footage showing her entering and exiting from an unmonitored area shortly before the incident.                                                     |
+| Daniel Price | I was at a networking event downtown.              | He claimed he attended a business networking event but provided vague details without confirming attendance or location.                  | To prevent suspicion of being involved in the theft.                                                                                                             | Surveillance footage showing him entering and exiting from an unmonitored area shortly before the incident.                                                       |
+
+---
+
+### FAIRNESS CHECK
+
+- Can a careful player determine the perpetrator using ONLY the information that will appear in the player case file?  
+  Yes, by combining multiple independent clues.
+- Are there 2-3 suspects?
+  Yes, with two primary suspects and one supporting alibi.
+- Is there exactly 1 perpetrator?
+  Yes, through elimination based on evidence consistency.
+- Can every necessary deduction be made from evidence presented to the player?
+  Yes, provided they combine all pieces of evidence logically.
+- Are there 2-3 suspects?
+  Yes, two primary suspects and one supporting alibi.
+- Is there exactly 1 perpetrator?
+  Yes, through elimination based on evidence consistency.
+- Can every important lie be explained?
+  Yes, by providing clear alternative explanations for their lies.
+- Can every red herring be explained?
+  Yes, by clearly showing where the misinterpretation of the surveillance footage occurred.
+- Can the innocent suspects be logically eliminated?
+  Yes, through consistent and contradicting evidence against them.
+
+### CCF SUSPECTS
+SUSPECT 1: Alice Morgan  
+SUSPECT 2: Daniel Price

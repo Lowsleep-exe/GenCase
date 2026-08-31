@@ -1,0 +1,216 @@
+ === COMPLETE CASE ===
+
+CASE TITLE: The Shadow in the Library
+CASE NUMBER: 2023-10-01-001
+CRIME: Theft of a rare manuscript
+LOCATION: The Rare Books Room of the Academy Library
+DATE: October 10, 2023
+LEAD INVESTIGATOR: Detective Sarah Chen
+
+=== INCIDENT REPORT ===
+
+=== CRIME SCENE REPORT ===
+
+=== VICTIM PROFILE ===
+Full Name: Prof. Edmund Blackwood
+Age: 65
+Occupation: Professor of Classics at Academy University
+Personality: Serious, meticulous, always focused on his work. 
+Relationships: Long-time colleague of Detective Sarah Chen. Known for his eccentric yet brilliant ideas in historiography. 
+Personal Problems: Struggles with alcohol and tends to work through it. Recently acquired a rare manuscript on the Etruscan civilization, which he has been researching intensively. 
+Secrets: Has a hidden ledger of obscure Etruscan texts he has been trying to track down. Believed to be valuable for his academic career.
+
+=== SUSPECT 1 ===
+Full Name: Dr. Marcus Voss
+Age: 45
+Occupation: Professor of Comparative Literature
+Relationship to Victim: Colleague and frequent collaborator
+Personality: Eccentric, always wearing odd clothing, known for his sarcastic remarks. 
+Secret: Has been secretly involved in the black market trade of rare manuscripts. 
+Suspicious Behaviour: Often seen sneaking into the library during night shifts.
+Evidence: Observed entering the library at night, wearing gloves and carrying a briefcase. 
+Alibi: Claims to have been in a conference in another city. 
+Evidence: Conference ticket, hotel booking confirmation.
+Lie: Claims to have been in a conference but does not provide details.
+
+=== SUSPECT 2 ===
+Full Name: Ms. Aria Lin
+Age: 30
+Occupation: Librarian
+Relationship to Victim: Works in the same department, occasional social events with Prof. Blackwood.
+Personality: Calm, professional, but can be unfriendly if provoked.
+Secret: Has been secretly researching the Etruscan texts Prof. Blackwood has been looking for. 
+Suspicious Behaviour: Tries to look for anything that might interest Prof. Blackwood.
+Evidence: Noticed looking at Prof. Blackwood’s notes on the Etruscan texts.
+Alibi: Claims to have been in the break room during the time of the theft. 
+Evidence: CCTV footage showing her in the break room. 
+Lie: Claims to have been in the break room but cannot recall exact details.
+
+=== SUSPECT 3 ===
+Full Name: Mr. Antonius Krasnov
+Age: 25
+Occupation: Graduate Student in Classical Studies
+Relationship to Victim: Prof. Blackwood is a mentor to him.
+Personality: Outgoing, friendly, but can be reckless at times. 
+Secret: Has been secretly selling rare texts from the library’s collection to black market dealers.
+Suspicious Behaviour: Often seen carrying items out of the library during the day. 
+Evidence: Seen carrying an old manuscript out of the library on the day of the theft. 
+Alibi: Claims to have been in his apartment studying. 
+Evidence: No evidence of him being in his apartment that day. 
+Lie: Claims to have been in his apartment but cannot recall details. 
+
+=== INTERVIEW TRANSCRIPTS ===
+
+---
+
+**INTERVIEW WITH DR. MARCUS VOS**
+
+**Detective Chen:** Dr. Voss, we have some questions for you about the theft of the rare manuscript.
+
+**Dr. Voss:** (Nervously) Sure, Detective Chen. Whatever you need.
+
+**Detective Chen:** Have you ever been interested in the Etruscan texts that Prof. Blackwood has been researching?
+
+**Dr. Voss:** (Sarcastically) Oh, the texts? Yes, I’ve seen them. They’re not really that interesting. 
+
+**Detective Chen:** (Not convinced) Did you ever consider selling them to someone who could profit from them?
+
+**Dr. Voss:** (Defensively) Oh, no, no. That’s not true at all. 
+
+**Detective Chen:** (Looking at his notes) You were seen entering the library at night, wearing gloves and carrying a briefcase.
+
+**Dr. Voss:** (Trying to change the subject) Well, I was just doing a bit of work. It’s a bit of a dark corner in the library, you know?
+
+---
+
+**INTERVIEW WITH MS. ARIA LIN**
+
+**Detective Chen:** Ms. Lin, can you please tell us what you were doing during the time of the theft?
+
+**Ms. Lin:** (Nervously) I was in the break room at the time. I was looking at some notes I found there.
+
+**Detective Chen:** (Looking at her notes) We have CCTV footage that shows you were in the break room. 
+
+**Ms. Lin:** (Slightly panicked) I know. I was looking for some documents for a project. 
+
+**Detective Chen:** (Not convinced) And you didn’t see any Etruscan texts in the break room?
+
+**Ms. Lin:** (Sighing) I guess I must have missed them. 
+
+---
+
+**INTERVIEW WITH MR. ANTONIUS KRASVNO**
+
+**Detective Chen:** Mr. Krasnov, we have some concerns about you.
+
+**Mr. Krasnov:** (Rashly) What concerns? 
+
+**Detective Chen:** (Gently) We have evidence that you were seen carrying an old manuscript out of the library on the day of the theft. 
+
+**Mr. Krasnov:** (Defensively) Oh, no, no. I was just taking some old texts for a class project.
+
+**Detective Chen:** (Looking at his notes) We have a witness who says you were seen carrying the manuscript. 
+
+**Mr. Krasnov:** (Defensively) I was just... I was just making sure I had everything I needed for my project.
+
+---
+
+=== EVIDENCE LOG ===
+
+**EVIDENCE 1:** CCTV Footage of Dr. Voss entering the library at night. 
+**EVIDENCE 2:** Conference ticket and hotel booking confirmation for Dr. Voss.
+**EVIDENCE 3:** CCTV footage of Ms. Lin in the break room during the time of the theft. 
+**EVIDENCE 4:** Manuscript found in the trash outside the library on the day of the theft. 
+**EVIDENCE 5:** Manuscript found in Mr. Krasnov's apartment after a search.
+**EVIDENCE 6:** Ledger of Etruscan texts matching Prof. Blackwood's notes.
+
+=== COMPLETE TIMELINE ===
+
+* **October 9, 2023, 9:00 PM:** Prof. Blackwood arrives at the library for his night shift. 
+* **October 9, 2023, 10:00 PM:** Dr. Voss arrives at the library. He is seen entering the library wearing gloves and carrying a briefcase. 
+* **October 10, 2023, 9:00 AM:** Ms. Lin arrives at the library. She is seen in the break room, looking for documents for a project. 
+* **October 10, 2023, 10:00 AM:** Prof. Blackwood is found missing. The rare manuscript is not found. 
+* **October 10, 2023, 12:00 PM:** Ms. Lin is caught carrying the manuscript out of the library. She claims it was for a class project. 
+* **October 10, 2023, 12:00 PM:** Dr. Voss is seen entering the library at night. 
+* **October 10, 2023, 1:00 PM:** Ms. Lin's apartment is searched. A manuscript matching the one taken from the library is found inside. 
+* **October 10, 2023, 5:00 PM:** Mr. Krasnov's apartment is searched. A ledger of Etruscan texts matching Prof. Blackwood's notes is found inside.
+
+=== SUSPECT LIES ===
+
+**DR. MARCUS VOSSE**:
+What He Said: "I was just doing a bit of work in the library. It's a bit of a dark corner in the library, you know?"
+What the Truth Is: He has been involved in the black market trade of rare manuscripts.
+Why He Lied: To avoid implicating himself.
+What Evidence Exposes the Lie: The conference ticket and hotel booking confirmation.
+
+**LIBRARIAN MS. ARIA LIN**:
+What He Said: "I was looking for some documents for a project."
+What the Truth Is: She has been secretly researching the Etruscan texts and was carrying the manuscript to sell.
+Why She Lied: To avoid implicating herself.
+What Evidence Exposes the Lie: CCTV footage showing her in the break room during the time of the theft.
+
+**GRADUATE STUDENT MR. ANTONIUS KRASVNO**:
+What He Said: "I was just taking some old texts for a class project."
+What the Truth Is: He has been secretly selling rare texts from the library’s collection to black market dealers.
+Why He Lied: To avoid implicating himself.
+What Evidence Exposes the Lie: Manuscript found in his apartment after the theft.
+
+=== RED HERRINGS ===
+
+**LIBRARIAN MS. ARIA LIN**:
+Dr. Voss was seen entering the library at night, wearing gloves and carrying a briefcase. 
+
+**WHY**: The librarian’s suspicion about the manuscript trade makes her appear as a suspect. The library’s routine activities are frequent, making the librarian’s behavior during the crime more suspicious.
+
+**GRADUATE STUDENT MR. ANTONIUS KRASVNO**:
+Dr. Voss was seen entering the library at night, wearing gloves and carrying a briefcase. 
+
+**WHY**: His secretive behavior makes him appear as a suspect. His frequent visits to the library during the day and his alibi being an apartment search suggest that he could be hiding something.
+
+=== DEDUCTION CHAIN ===
+
+Evidence 1 establishes X (Dr. Voss entering the library at night with gloves and a briefcase).
+
+Evidence 2 establishes Y (Ms. Lin's presence in the break room during the theft).
+
+X + Y establishes Z (Dr. Voss and Ms. Lin are involved in the theft).
+
+Evidence 3 contradicts Dr. Voss (Dr. Voss's alibi and his claim of work in the library are not verified).
+
+Evidence 4 establishes that Mr. Krasnov could not have committed the crime (Krasnov was caught carrying the manuscript on the day of the theft).
+
+Evidence 5 establishes that Ms. Lin's alibi is not credible (she was caught with the manuscript).
+
+Therefore, Dr. Voss and Ms. Lin are the only suspects left.
+
+The final deduction identifies Dr. Voss as the perpetrator.
+
+=== COMPLETE SOLUTION ===
+
+Dr. Marcus Voss, a colleague of Prof. Blackwood, has been secretly trading rare manuscripts on the black market. He used his frequent night visits to the library to gain access and enter the rare books room. Dr. Voss saw the manuscript and decided to take it, planning to sell it later. On the day of the theft, he used his gloves and briefcase to avoid detection. He then used Ms. Lin’s presence in the break room as a red herring. Ms. Lin was carrying the manuscript as part of her project, but it was actually the one he stole. He lied about his activities and claimed he was just working in the library.
+
+---
+
+=== FAIRNESS CHECK ===
+
+[ ] 2 or 3 suspects were created.
+[ ] Exactly 1 suspect is the perpetrator.
+[ ] The perpetrator is one of the suspects.
+[ ] All suspects have actual names.
+[ ] Names are consistent throughout the case.
+[ ] The mystery is solvable.
+[ ] The solution is based on evidence.
+[ ] The player can solve it without hidden information.
+[ ] The timeline is consistent.
+[ ] The evidence is consistent.
+[ ] The red herrings are explainable.
+[ ] The contradictions are intentional.
+[ ] The CCF SUSPECTS section exists.
+[ ] CCF SUSPECTS contains the actual suspect names.
+[ ] CCF SUSPECTS is the final section.
+[ ] NOTHING appears after CCF SUSPECTS.
+
+=== CCF SUSPECTS ===
+SUSPECT 1: Dr. Marcus Voss
+SUSPECT 2: Ms. Aria Lin
+SUSPECT 3: Mr. Antonius Krasnov

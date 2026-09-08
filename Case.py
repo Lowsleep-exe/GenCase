@@ -1,9 +1,13 @@
+CaseTheme = 'Murder at a hotel'
 import ollama
 import os
 
 CCaseMake = ""
 PCaseMake = ""
 CCase = ""
+
+CaseTheme = os.environ.get("CASE_THEME", "mystery")
+
 if not os.path.exists('CompleteCase.txt'):  
   CCase = open("CompleteCase.txt", "x")
 
@@ -24,7 +28,7 @@ def MakeCase(CaseInfo, Which_Case):
 
     if Which_Case == 0:
 
-        system_prompt = """You are a STRICT COMPLETE CASE GENERATOR.
+        system_prompt = CaseTheme + """You are a STRICT COMPLETE CASE GENERATOR. 
 
     You are generating the SECRET MASTER CASE FILE.
 
@@ -76,7 +80,7 @@ def MakeCase(CaseInfo, Which_Case):
     OUTPUT ONLY THE COMPLETE CASE FILE.
 
     COMPLETE CASE CREATOR PROMPT:
-    """ + CaseInfo
+    """ + CaseTheme + CaseInfo
 
         user_prompt = """Generate the COMPLETE SECRET MASTER CASE now.
 
@@ -222,7 +226,7 @@ def MakeCase(CaseInfo, Which_Case):
 
     # print(response['message']['content'])
     
-PCaseMake += "\n \n" + CCase
+PCaseMake += "\n \n" + open("CompleteCase.txt", "x")
 
 MakeCase(CCaseMake, 0)
 MakeCase(PCaseMake, 1)
